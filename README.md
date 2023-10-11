@@ -4,7 +4,7 @@
 
 -- This project is for preparing my graduation thesis, utilizing Vue.js with Nuxt.js and .NET for development. 
 
-_I chose Vue.js to learn and build a Single-Page Application (SPA) because it is easier for beginners._
+   _I chose Vue.js to learn and build a Single-Page Application (SPA) because it is easier for beginners._
 
 -- Flight booking system with B2B and B2C model.
 
