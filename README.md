@@ -2,7 +2,7 @@
 # 👋 Introduce
     THE PROJECT IS CURRENTLY UNDER CONSTRUCTION.
 
-- This project is for preparing my graduation thesis, utilizing Vue.js with Nuxt.js and .NET for development. 
+- This project is for preparing my graduation thesis, utilizing Vue.js with Nuxt.js and .NET for development.  
 
 _I chose Vue.js to learn and build a Single-Page Application (SPA) because it is easier for beginners._
 
