@@ -1,6 +1,6 @@
 # Flight booking system
 # 👋 Introduce
-    -- THE PROJECT IS CURRENTLY UNDER CONSTRUCTION.
+    THE PROJECT IS CURRENTLY UNDER CONSTRUCTION.
 
 -- This project is for preparing my graduation thesis, utilizing Vue.js with Nuxt.js and .NET for development. 
 
