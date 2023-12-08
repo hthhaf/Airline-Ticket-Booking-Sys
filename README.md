@@ -14,4 +14,14 @@ There are three user levels within the ticket booking system: User, Agent, and A
 # 👀 App preview
 
 # 🥰 The main functions of the application
+ + Booking Oneway
+ + Booking Roundtrip
+ + Filter Price
+ + Send email ticket
+ + Change language
+ + Log in
+ + Log out and auto log out after 30 minutes
+ + Update profile
+ + Review booking history
+ + Check reserved tickets
 
